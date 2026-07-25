@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center"> M1han / indie developer </h1>
 
-<!--
-**MihanPROJECTS/MihanPROJECTS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mint" height="40" alt="mint logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="mint logo" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+  
+</div>
+  
+
+###
+
+###
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=MihanPROJECTS&theme=dark&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
