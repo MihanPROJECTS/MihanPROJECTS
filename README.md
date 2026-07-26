@@ -1,4 +1,4 @@
-<h1 align="center"> M1han / indie developer </h1>
+<h1 align="center"> Hi, I'm Mihail, and welcome to my profile. </h1>
 
 ###
 
