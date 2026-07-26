@@ -10,6 +10,8 @@
   <img src="https://skillicons.dev/icons?i=mint" height="40" alt="mint logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="mint logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="mint logo" />
 
 
 
@@ -23,3 +25,7 @@
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=MihanPROJECTS&theme=dark&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
+
+
+
+
