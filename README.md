@@ -1,34 +1,20 @@
-<h1 align="center"> Hi, I'm M1han, and welcome to my profile. </h1>
+# Привет, меня зовут M1han (Михаил) 👋
+Я инди-разработчик. Добро пожаловать в мой профиль!
 
-###
+---
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mint" height="40" alt="mint logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="mint logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="mint logo" />
-
-  
-  
+### Стек инструментов
+![Static Badge](https://img.shields.io/badge/python_3.12.3-green?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge)
 
 
 
-  
-</div>
-  
-
-###
-
-###
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=MihanPROJECTS&theme=dark&show_icons=true&hide_border=true&count_private=true&locale=ru">
-</p>
 
 
 
+
+
+---
+
+### Мой проект, который я активно разрабатываю
+[![Lemon Terminal](https://shields.io)](https://github.com/MihanPROJECTS/lemon-terminal) - Простой и быстрый терминал с кастомным GUI, множеством команд и удобным интерфейсом. Проект в активной стадии разрботки, а точнее в бета версии.
 
