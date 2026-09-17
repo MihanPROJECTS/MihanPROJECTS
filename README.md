@@ -1,7 +1,7 @@
 # Привет, меня зовут M1han (Михаил) 👋
 Я - инди-разработчик, который разрабатывает приложения для Linux. Добро пожаловать в мой профиль!
 
----
+
 
 ### Стек инструментов
 ![Static Badge](https://img.shields.io/badge/python_3.12.3-green?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/VScode-007ACC?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge)
